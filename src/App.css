@@ -131,9 +131,11 @@ h3 {
   
 }
 .game-over{
+  
   font-family: "Press Start 2P", system-ui;
-  font-weight: 300;
+  font-weight: 400;
   font-style: normal;
   color:rgb(159, 218, 22);
-
+  background-color: black;
+ 
 }
