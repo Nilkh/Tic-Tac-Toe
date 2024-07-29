@@ -1,7 +1,7 @@
-export default function Strike({ winningLine }) {
+export default function Strike({ winnerStrike }) {
 	return (
 		<>
-			<div className={`strike ${winningLine}`}></div>
+			<div className={`strike ${winnerStrike}`}></div>
 		</>
 	)
 }
