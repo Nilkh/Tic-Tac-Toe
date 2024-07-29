@@ -87,7 +87,7 @@ export default function TicTacToe() {
 	}
     return (
 			<>
-				<h3>Tic Tac Toe</h3>
+				
 				<GameBoard
 					currentPlayer={currentPlayer}
 					tiles={tiles}
